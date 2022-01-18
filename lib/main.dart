@@ -55,7 +55,6 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children:  <Widget>[
-
             myCard(cardColor: Colors.purple, koteret: '1'),
             myCard(cardColor: Colors.green, koteret: '2'),
             myCard(cardColor: Colors.blue, koteret: '3'),
